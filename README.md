@@ -7,4 +7,4 @@ The analysis relies on explicit DAX measures to track customer counts, default v
 
 
 # 📊Dashboard
-[Dashboard.png]
+[Dashboard.png](https://github.com/Vindya-Ashanthi/Customer-Default-Analysis-Across-Demographic-Financial-Factors/blob/main/Dashboard.png)
