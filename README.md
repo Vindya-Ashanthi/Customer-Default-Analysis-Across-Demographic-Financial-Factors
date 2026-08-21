@@ -3,6 +3,8 @@ This dashboard section analyzes customer default behavior against key demographi
 
 # DAX Measures
 The analysis relies on explicit DAX measures to track customer counts, default volumes, and segment-specific risk metrics:
+[DAX.png] - https://github.com/Vindya-Ashanthi/Customer-Default-Analysis-Across-Demographic-Financial-Factors/blob/main/DAX.png
 
 
 # Dashboard
+[Dashboard.png]
