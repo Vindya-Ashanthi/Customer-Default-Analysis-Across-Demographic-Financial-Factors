@@ -1,2 +1,2 @@
 # Customer-Default-Analysis-Across-Demographic-Financial-Factors
-Visualize the default subject to carrier, education and housing facilities. 
+This dashboard section analyzes customer default behavior against key demographic and financial attributes—specifically job occupation, education level, and active housing loan commitments—to identify high-risk customer segments.
